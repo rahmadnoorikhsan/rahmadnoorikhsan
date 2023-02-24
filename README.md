@@ -1,4 +1,4 @@
-# Halo semua! 
+# Hello Everyone! 
 
 My name is **Rahmad Noor Ikhsan**.\
 I'am **Student** at [Universitas Sains Al-Qur'an](https://unsiq.ac.id/).\
