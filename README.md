@@ -10,3 +10,5 @@ If you are interested in getting to know me, feel free to connect with My [Linke
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahmadnoorikhsan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmadnoorikhsan&theme=darkhub" alt="rahmadnoorikhsan" /></a> </p>
