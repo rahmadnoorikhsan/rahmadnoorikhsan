@@ -11,4 +11,4 @@ If you are interested in getting to know me, feel free to connect with My [Linke
 </a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmadnoorikhsan&theme=darkhub" alt="rahmadnoorikhsan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmadnoorikhsan&theme=algolia" alt="rahmadnoorikhsan" /></a> </p>
