@@ -7,7 +7,7 @@ If you are interested in getting to know me, feel free to connect with My [Linke
 <p align="left">
 <a href="https://github.com/rahmadnoorikhsan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahmadnoorikhsan&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahmadnoorikhsan&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahmadnoorikhsan&layout=compact&count=10&theme=algolia"/>
 </a>
 </p>
 
