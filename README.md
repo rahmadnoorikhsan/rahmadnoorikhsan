@@ -1,7 +1,6 @@
 # Hello Everyone! 
 
 I'm an Mobile Developer Enthusiast
-If you are interested in getting to know me, feel free to connect with My [Linkedin](https://www.linkedin.com/in/rahmad-noor-ikhsan-b40747221/).
 
 <p align="center">
 <a href="https://github.com/rahmadnoorikhsan">
